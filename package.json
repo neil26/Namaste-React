@@ -2,9 +2,9 @@
   "name": "namaste-react",
   "version": "1.0.0",
   "description": "This is the EP02 of namaste react series, igniting our react app without npx-create-react-app",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "keywords": [
     "react.js",
